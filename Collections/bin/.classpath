@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Variables and Data Types/src/|Strings/src/|Keywords/src/|Statements/src/|InterfacesExample/src/|Collections/src/|Inheritance/src/|demo/src/|PolymorphismExample/src/|FirstProgram/src/|Object/src/|Robot/src/|Exceptions/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="demo/src"/>
+	<classpathentry kind="src" path="Exceptions/src"/>
+	<classpathentry kind="src" path="FirstProgram/src"/>
+	<classpathentry kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="InterfacesExample/src"/>
+	<classpathentry kind="src" path="Keywords/src"/>
+	<classpathentry kind="src" path="Object/src"/>
+	<classpathentry kind="src" path="PolymorphismExample/src"/>
+	<classpathentry kind="src" path="Robot/src"/>
+	<classpathentry kind="src" path="Statements/src"/>
+	<classpathentry kind="src" path="Strings/src"/>
+	<classpathentry kind="src" path="Variables and Data Types/src"/>
+	<classpathentry kind="output" path="Collections/bin"/>
+</classpath>

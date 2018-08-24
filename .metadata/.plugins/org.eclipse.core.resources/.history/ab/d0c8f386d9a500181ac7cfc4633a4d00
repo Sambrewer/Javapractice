@@ -1,0 +1,13 @@
+package examples;
+
+public class CheckedExceptionExample {
+
+	public static void openFile() {
+		new FileInputStream("C:\\DoesNotExist.txt");
+	}
+	
+	public static void main(String[] args) {
+		
+		openFile();
+	}
+}
